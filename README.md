@@ -44,3 +44,12 @@ Free courses
 | Network Scanning                      | https://mega.nz/folder/woQFAaLT#Eqvaip0R-kXi-lD8OIch7g                    | 4 Go   |
 | Linux Command Line                    | https://mega.nz/folder/BlRVyArK#84n4ZhYZCRXLjt-KEP6u6g                    | 3 Go   |
 | Advanced Pentesting                   | https://mega.nz/folder/3TRG2IiK#cYUfjdBRz4FlsfZFedx4NA                    | 3 Go   |
+| Udemy Courses Mix Pack                | https://mega.nz/folder/FSZHwKBa#iGFBQB78N-gUs4KCl31B9g                    | 50 Go  |
+| Golang Hacking                        | https://drive.google.com/drive/folders/1GUsF8hpRBZk2c7y5fewCus6BaDXLO9I5  |        |
+| Bug Bounty                            | https://drive.google.com/drive/folders/1oAC1M9iwQZMZJi-r6ud21RBuWZgJ_mIa  |        |
+| Web Hacking                           | https://drive.google.com/folderview?id=1vZwPio33-dr9McGYLAanMFc5I7DtBtwI  |        |
+| Ethical Hacking Practical             | https://drive.google.com/folderview?id=1qbH-h6DYBAub3CqSdtKYFfDSfGv7Bnwm  |        |
+| Ethical Hacking Masters               | https://drive.google.com/folderview?id=1lgiTolJ6n0raz7nqmjWT9-qxPfpym3kj  |        |
+| Nmap Full Course                      | https://drive.google.com/folderview?id=1yEMmTW0qHMqx0Ax3_M639htop1PdPjU1  |        |
+| Cybersecurity Collection              | https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD  |        |
+| Kali linux                            | https://drive.google.com/folderview?id=1714TBeP8chDWSIPCcALAuEM5ZNQsLYsn  |        |
