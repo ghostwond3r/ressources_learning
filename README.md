@@ -22,7 +22,6 @@ last update: May 17 2022
 | Android Ethical Hacking               | https://mega.nz/folder/svpm0JSS#BDZSgwDitVwupbo2T-Iw6Q                    | 1 Go   |
 | Hacking                               | https://mega.nz/folder/A2QUjJYR#Vv0xbGm30InMD5kG_tQSWw                    | 3 Go   |
 | Scam Bible                            | https://mega.nz/folder/nFZHxYLb#K2O-TXpqkTShccWKdgamKA                    | 19 Go  |
-| Ethical Hacking                       | https://mega.nz/folder/ppQCVbgL#u8wcVDSceGNi3qr6WlSBjA                    | 9 Go   |
 | Bug Bounty Hacking                    | https://mega.nz/file/dklkgRKJ#q3QmlkN27Bdgm4Dk3TyB8x2gLIDOex38tIZAnmfHtbM | 8 Go   |
 | Learn Programming With Python         | https://mega.nz/folder/w0JBEYyD#UnJtjvmIEQNGUYEMMSC54A                    | 3 Go   |
 | All RATS tools (Rackstation)          | https://mega.nz/folder/1cgAAKTQ#TsXutcd8w6GKFVfAJ_owaQ/folder/pQ5WAIQJ    | 280 Mo |
