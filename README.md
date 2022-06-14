@@ -4,10 +4,8 @@ last update: May 17 2022
 
 |          RESSOURCES LEARNING          |                                  LINK                                     | SIZE   |
 | ------------------------------------- | --------------------------------------------------------------------------|--------|
-| Ethical Hacking                       | https://mega.nz/folder/HyRBSQiA#JwuAYFCFMKK74_QTwLEI-g                    | 2 Go   |
 | Crack Software                        | https://mega.nz/folder/XWRjVAAA#_kLgDVCfVTGAuFTDRsk1WQ/folder/rOAD0aYL    | 7 Go   |
 | Securing Your Network                 | https://mega.nz/folder/odkTFAYQ#cILsm3QuPNlEEiDbSmg3wg                    | 2 Go   |
-| +50 Courses                           | https://mega.nz/folder/TyhGnIiR#XlHwR6qa4cZ3Tl1bSm2-QA                    | 22 Go  |
 | Red Teams                             | https://mega.nz/folder/kINjgILL#CYouUd6lMPtyR0FJPwnfyQ                    | 635 Mo |
 | Hacking & Malware Courses             | https://drive.google.com/drive/folders/1GUsF8hpRBZk2c7y5fewCus6BaDXLO9I5  |        |
 | Wireshark for Security Professionals  | https://mega.nz/file/7TRUCZCZ#ZPFmeFnccvR4ltf_2lwTdi8PqHIArRx_bkqRP9wwq4k | 12 Mo  |  
@@ -15,7 +13,6 @@ last update: May 17 2022
 | XSS Attacks                           | https://mega.nz/file/3XJCyD5C#qAda14pWUjd5u4wjOYmzCI52UMa1rUFulh7V0kBGZk8 | 7 Mo   |
 | Little Black Book                     | https://mega.nz/file/SDICALSJ#3r2oy2AsGXR3P7f8K7xvL2kEVjR6ccze83cAmz9VIBc | 2 Mo   |
 | Ethical Hacking and Countermeasures   | https://mega.nz/file/2fAyRb4C#tpFivx91Ips2rR3UnVdtlgvx1oOmi-qEtCu29DlO9uQ | 13 Mo  |
-| Reverse Engineering                   | https://mega.nz/file/LGRUzLIC#MB5a5s9wpaWEEGnhi5j_73kMtPIQx0rEuQXv5_Y_gd4 | 8 Mo   |
 | Network Security Bible                | https://mega.nz/file/mLAUEbDQ#PXzqsNN2PPc-PUVyAwbfknTHEA-QBvjwvpjjQgZnYMo | 12 Mo  |
 | Hacking for Dummies                   | https://mega.nz/file/iKQ2jZSQ#ur1W05ChW7_ipTYtEK6QKpIlyoqLyS82RGsEUEzFQDQ | 9 Mo   |
 | Hacking Web Applications              | https://mega.nz/file/LCYWWRYI#QQ8O9k6lp7vmYWzrbxbs8ItSVbYpSluYfktCxWURZGs | 7 Mo   |
