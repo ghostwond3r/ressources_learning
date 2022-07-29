@@ -209,3 +209,6 @@ Learning how to spot all types of social engineering attacks is the `first step`
 For added protection, consider `identity theft and device protection tools.`
 
 # Sail Safe - Be Wise - And Arise
+
+
+Orginal from Twitter post: https://twitter.com/Inkosi_yoMhlaba/status/1549684564766990337?t=w8qL60Dyjsw5eOmVx3NjMA&s=19
