@@ -4,7 +4,6 @@ last update: May 17 2022
 
 |          RESSOURCES LEARNING          |                                  LINK                                     | SIZE   |
 | ------------------------------------- | --------------------------------------------------------------------------|--------|
-| Crack Software                        | https://mega.nz/folder/XWRjVAAA#_kLgDVCfVTGAuFTDRsk1WQ/folder/rOAD0aYL    | 7 Go   |
 | Securing Your Network                 | https://mega.nz/folder/odkTFAYQ#cILsm3QuPNlEEiDbSmg3wg                    | 2 Go   |
 | Red Teams                             | https://mega.nz/folder/kINjgILL#CYouUd6lMPtyR0FJPwnfyQ                    | 635 Mo |
 | Hacking & Malware Courses             | https://drive.google.com/drive/folders/1GUsF8hpRBZk2c7y5fewCus6BaDXLO9I5  |        |
