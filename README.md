@@ -6,7 +6,6 @@ last update: May 17 2022
 | ------------------------------------- | --------------------------------------------------------------------------|--------|
 | Securing Your Network                 | https://mega.nz/folder/odkTFAYQ#cILsm3QuPNlEEiDbSmg3wg                    | 2 Go   |
 | Red Teams                             | https://mega.nz/folder/kINjgILL#CYouUd6lMPtyR0FJPwnfyQ                    | 635 Mo |
-| Hacking & Malware Courses             | https://drive.google.com/drive/folders/1GUsF8hpRBZk2c7y5fewCus6BaDXLO9I5  |        |
 | Wireshark for Security Professionals  | https://mega.nz/file/7TRUCZCZ#ZPFmeFnccvR4ltf_2lwTdi8PqHIArRx_bkqRP9wwq4k | 12 Mo  |  
 | The Shellcoder's Handbook             | https://mega.nz/file/3OZgwT6Z#8yNyiuSHVQ3gOib4rKJYtwsCwSfqAfoFj2lQtwUyI8o | 9 Mo   |
 | XSS Attacks                           | https://mega.nz/file/3XJCyD5C#qAda14pWUjd5u4wjOYmzCI52UMa1rUFulh7V0kBGZk8 | 7 Mo   |
