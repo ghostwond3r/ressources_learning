@@ -4,6 +4,7 @@ last update: May 17 2022
 
 |          RESSOURCES LEARNING          |                                  LINK                                     | SIZE   |
 | ------------------------------------- | --------------------------------------------------------------------------|--------|
+| Red Teams Blueprint                   | https://mega.nz/folder/PYkhkIiZ#FI8Il1Jm2J0DqkOslkZZBQ/folder/rNsR0AaC    | 3 Go   |
 | Securing Your Network                 | https://mega.nz/folder/odkTFAYQ#cILsm3QuPNlEEiDbSmg3wg                    | 2 Go   |
 | Red Teams                             | https://mega.nz/folder/kINjgILL#CYouUd6lMPtyR0FJPwnfyQ                    | 635 Mo |
 | Wireshark for Security Professionals  | https://mega.nz/file/7TRUCZCZ#ZPFmeFnccvR4ltf_2lwTdi8PqHIArRx_bkqRP9wwq4k | 12 Mo  |  
