@@ -17,7 +17,6 @@ last update: May 17 2022
 | Hacking Web Applications              | https://mega.nz/file/LCYWWRYI#QQ8O9k6lp7vmYWzrbxbs8ItSVbYpSluYfktCxWURZGs | 7 Mo   |
 | Python A to Z                         | https://drive.google.com/drive/folders/18bugg6hBkODmGWDTa1T4v-W9uoCiLOHm  |        |
 | HTTP Debugger Pro 9.11                | https://anonfiles.com/p8M0r2I8xc/HTTP_Debugger_Pro_9.11_zip               | 11 Mo  |
-| VMware Workstation Pro 16.2.2         | https://anonfiles.com/r5M0rcIdx2/VMware.Workstation.Pro.16.2.2_zip        | 590 Mo |
 | Android Ethical Hacking               | https://mega.nz/folder/svpm0JSS#BDZSgwDitVwupbo2T-Iw6Q                    | 1 Go   |
 | Hacking                               | https://mega.nz/folder/A2QUjJYR#Vv0xbGm30InMD5kG_tQSWw                    | 3 Go   |
 | Scam Bible                            | https://mega.nz/folder/nFZHxYLb#K2O-TXpqkTShccWKdgamKA                    | 19 Go  |
