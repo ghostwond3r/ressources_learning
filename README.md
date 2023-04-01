@@ -8,10 +8,13 @@
 
 |                NAME                   |                                  LINK                                     |  SIZE  |
 | ------------------------------------- | --------------------------------------------------------------------------|--------|
+| Windows Privilege Escalation Beginners| https://mega.nz/folder/J4AVlQJA#WymF27zz0hQ_GBYWENYPVg                    | 435 MB |
 | Linux Privilege Escalation Beginners  | https://mega.nz/folder/51ZXUaaR#AMb_YrVcXQ3Q8XU4qupfgA                    | 270 MB |
 | CEH(v9-10)-ECES-GSEG-COMPTIA(x6)      | https://mega.nz/folder/XPRh2KrY#VFLZUATXCXJKKNtrDPAnLw                    | 108 GB |
 | Undetectable malware                  | https://mega.nz/folder/Ug9RFK5Z#nrZTlXMaJippG34v3g-fqA/folder/Q1ty1YCA    | 267 MB |
 | Red Teams Blueprint                   | https://mega.nz/folder/PYkhkIiZ#FI8Il1Jm2J0DqkOslkZZBQ/folder/rNsR0AaC    | 3 GB   |
+| Advance Exploitation                  | https://mega.nz/folder/DYRRgKSS#9QlGXNVAE_4cnbDe8Ni-AQ                    | 998 MB |
+| Reverse Engineering & Exploit Dev     | https://mega.nz/folder/F4wn1aLZ#d0wRBRUXKauTuGf3fs1uAA                    | 1 GB   |
 | Securing Your Network                 | https://mega.nz/folder/odkTFAYQ#cILsm3QuPNlEEiDbSmg3wg                    | 2 GB   |
 | Red Teams                             | https://mega.nz/folder/kINjgILL#CYouUd6lMPtyR0FJPwnfyQ                    | 635 MB |
 | Python A to Z                         | https://drive.google.com/drive/folders/18bugg6hBkODmGWDTa1T4v-W9uoCiLOHm  |        |
@@ -33,6 +36,7 @@
 
 |                NAME                   |                                 LINK                                      |  SIZE  |
 |---------------------------------------|---------------------------------------------------------------------------|--------|
+| BlackHat Asia 2022                    | https://drive.google.com/drive/folders/1o6LIx1XYjdKE3N0psOI3yHqKZoqI4kao  |        |
 | Wireshark for Security Professionals  | https://mega.nz/file/7TRUCZCZ#ZPFmeFnccvR4ltf_2lwTdi8PqHIArRx_bkqRP9wwq4k | 12 MB  |  
 | The Shellcoder's Handbook             | https://mega.nz/file/3OZgwT6Z#8yNyiuSHVQ3gOib4rKJYtwsCwSfqAfoFj2lQtwUyI8o | 9 MB   |
 | XSS Attacks                           | https://mega.nz/file/3XJCyD5C#qAda14pWUjd5u4wjOYmzCI52UMa1rUFulh7V0kBGZk8 | 7 MB   |
