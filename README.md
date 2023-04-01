@@ -8,6 +8,7 @@
 
 |                NAME                   |                                  LINK                                     |  SIZE  |
 | ------------------------------------- | --------------------------------------------------------------------------|--------|
+| Red Team Ethical Hacking              | https://mega.nz/folder/0K8SkCxC#_lhA9lv77NCiNRf0g-93og                    | 1.5 GB |
 | Windows Privilege Escalation Beginners| https://mega.nz/folder/J4AVlQJA#WymF27zz0hQ_GBYWENYPVg                    | 435 MB |
 | Linux Privilege Escalation Beginners  | https://mega.nz/folder/51ZXUaaR#AMb_YrVcXQ3Q8XU4qupfgA                    | 270 MB |
 | CEH(v9-10)-ECES-GSEG-COMPTIA(x6)      | https://mega.nz/folder/XPRh2KrY#VFLZUATXCXJKKNtrDPAnLw                    | 108 GB |
