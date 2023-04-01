@@ -11,6 +11,7 @@
 | Windows Privilege Escalation Beginners| https://mega.nz/folder/J4AVlQJA#WymF27zz0hQ_GBYWENYPVg                    | 435 MB |
 | Linux Privilege Escalation Beginners  | https://mega.nz/folder/51ZXUaaR#AMb_YrVcXQ3Q8XU4qupfgA                    | 270 MB |
 | CEH(v9-10)-ECES-GSEG-COMPTIA(x6)      | https://mega.nz/folder/XPRh2KrY#VFLZUATXCXJKKNtrDPAnLw                    | 108 GB |
+| Malware Development                   | https://mega.nz/folder/EeVD0JoR#2EvIQUShfZOZKRdi4dlt5Q                    | 1 GB   |
 | Undetectable malware                  | https://mega.nz/folder/Ug9RFK5Z#nrZTlXMaJippG34v3g-fqA/folder/Q1ty1YCA    | 267 MB |
 | Red Teams Blueprint                   | https://mega.nz/folder/PYkhkIiZ#FI8Il1Jm2J0DqkOslkZZBQ/folder/rNsR0AaC    | 3 GB   |
 | Advance Exploitation                  | https://mega.nz/folder/DYRRgKSS#9QlGXNVAE_4cnbDe8Ni-AQ                    | 998 MB |
